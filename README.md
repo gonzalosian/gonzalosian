@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2>I'm Gonzalo Sian! <img src="https://media.giphy.com/media/mfdqzC02ASo5q/giphy.gif" width="50"></h2>
+<h2>Hi there 👋 I'm Gonzalo Sian! <img src="https://media.giphy.com/media/mfdqzC02ASo5q/giphy.gif" width="50"></h2>
 <p><em>Software Developer at <a href="https://www.amr.org.ar/he/">Hospital Español</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
