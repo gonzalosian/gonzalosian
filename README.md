@@ -2,8 +2,8 @@
 <p><em>Software Developer at <a href="https://www.amr.org.ar/he/">Hospital Español</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-CurriculumVitae-blue?style=flat-square&logoColor=white&link=https://bit.ly/30Fj4ca/)](https://bit.ly/30Fj4ca/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-gonzalosian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalosian/)](https://www.linkedin.com/in/gonzalosian/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-CurriculumVitae-blue?style=flat-square&logoColor=white&link=https://bit.ly/CV_Gonzalo_Sian)](https://bit.ly/CV_Gonzalo_Sian)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-gonzalosian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/LinkedInGSIAN)](https://bit.ly/LinkedInGSIAN)
 ![GitHub followers](https://img.shields.io/github/followers/gonzalosian?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=gonzalosian.gonzalosian)
 
