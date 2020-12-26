@@ -37,7 +37,7 @@ const gonzalo = {
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Practicar PHP, CSS y AJAX. 
+Practicar Angular avanzado con backend Node/Express/Mongo (MEAN Stack)
 ```
 <!--END_SECTION:waka-->
 
