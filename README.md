@@ -2,7 +2,7 @@
 <p><em>Software Developer at <a href="https://www.amr.org.ar/he/">Hospital Español</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-CurriculumVitae-blue?style=flat-square&logoColor=white&link=https://bit.ly/CV_Gonzalo_Sian)](https://bit.ly/CV_Gonzalo_Sian)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-CurriculumVitae-blue?style=flat-square&logoColor=white&link=https://gonzalosian.netlify.app/CV_Gonzalo_Leonardo_Sian.pdf)](https://gonzalosian.netlify.app/CV_Gonzalo_Leonardo_Sian.pdf)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-gonzalosian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/LinkedInGSIAN)](https://bit.ly/LinkedInGSIAN)
 ![GitHub followers](https://img.shields.io/github/followers/gonzalosian?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=gonzalosian.gonzalosian)
