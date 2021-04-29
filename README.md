@@ -11,7 +11,7 @@
 
 ```javascript
 const gonzalo = {
-    code: ["Javascript", "Typescript", "PHP", "FoxPro"],
+    code: ["Javascript", "Typescript", "PHP", "FoxPro", "C#"],
     askMeAbout: ["web dev", "tech", "soft dev"],
     technologies: {
         mobileApp: ["Ionic"],
@@ -22,7 +22,7 @@ const gonzalo = {
         backEnd: {
             js: ["Node", "Express"]
         },
-        databases: ["MongoDB", "MySql", "PostgreSQL"],
+        databases: ["MongoDB", "MySql", "PostgreSQL", "SQLServer"],
         misc: ["Firebase"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Desktop application"],
@@ -37,7 +37,7 @@ const gonzalo = {
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Practicar Angular avanzado con backend Node/Express/Mongo (MEAN Stack)
+Continuar con los proyectos freelance (MEAN Stack). Estudiar IONIC.
 ```
 <!--END_SECTION:waka-->
 
