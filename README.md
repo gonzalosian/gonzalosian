@@ -1,5 +1,5 @@
 <h2>Hi there 👋 I'm Gonzalo Sian! <img src="https://media.giphy.com/media/mfdqzC02ASo5q/giphy.gif" width="50"></h2>
-<p><em>Angular Front-End Developer at <a href="https://baufest.com/">Baufest</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full Stack Developer .NET / Angular at <a href="https://baufest.com/">Baufest</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-CurriculumVitae-blue?style=flat-square&logoColor=white&link=https://gonzalosian.netlify.app/CV_Gonzalo_Leonardo_Sian.pdf)](https://gonzalosian.netlify.app/CV_Gonzalo_Leonardo_Sian.pdf)
@@ -20,9 +20,10 @@ const gonzalo = {
             css: ["Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express"]
+            js: ["Node", "Express"],
+            cSharp: ["C#"]
         },
-        databases: ["MongoDB", "MySql", "PostgreSQL", "SQLServer"],
+        databases: ["PostgreSQL", "SQLServer", "MySql", "MongoDB"],
         misc: ["Firebase"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Desktop application"],
