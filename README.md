@@ -11,12 +11,12 @@
 
 ```javascript
 const gonzalo = {
-    code: ["Javascript", "Typescript", "PHP", "FoxPro", "C#"],
+    code: ["Javascript", "Typescript", "FoxPro", "C#"],
     askMeAbout: ["web dev", "tech", "soft dev"],
     technologies: {
         mobileApp: ["Ionic"],
         frontEnd: {
-            js: ["Angular", "React"],
+            js: ["Angular"],
             css: ["Bootstrap"]
         },
         backEnd: {
